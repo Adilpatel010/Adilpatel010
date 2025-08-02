@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and motivated Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Frontend+Developer;MERN+Stack+Enthusiast;React.js+Lover;Open+Source+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Full Stack+Developer;MERN+Stack+Enthusiast;React.js+Lover;Open+Source+Learner" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 - 💻 I’m passionate about **Web Development**, **Software Engineering**, and **Data Management**
 - 🌱 Currently improving my skills in **React.js**, **Express.js**, **MongoDB**, and **SQL**
 - 🚀 Eager to work on **real-world projects**, open-source, and freelance collaborations
-- 📫 How to reach me: **adilpatel.work@gmail.com**
+- 📫 How to reach me: **adilpatel010@gmail.com**
 
 ---
 
@@ -54,8 +54,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adilpatel.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/adil-patel-ap)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adilpatel010@gmail.com)
 
 ---
 
