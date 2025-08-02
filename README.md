@@ -11,7 +11,7 @@
 
 - 🎓 I recently completed **Bachelor of Computer Application** at [Hemchandracharya North Gujarat University (HNGU)](https://www.ngu.ac.in/)
 - 💻 I’m passionate about **Web Development**, **Software Engineering**, and **Data Management**
-- 🌱 Currently improving my skills in **React.js**, **Express.js**, **MongoDB**, and **SQL**
+- 🌱 Currently improving my skills in **Javascript** ,**React.js**, **Express.js** and **MySQL** 
 - 🚀 Eager to work on **real-world projects**, open-source, and freelance collaborations
 - 📫 How to reach me: **adilpatel010@gmail.com**
 
